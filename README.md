@@ -11,11 +11,11 @@ this project may not be the best.  Clean up may be required.
 In its current state, there is a heap of old code and some
 more recent additions all mixed together.  We now only use the
 .net exe to redirect the Minecraft launcher and launch a Java 
-based auto updater.  This basicly means that the exe is just 
+based auto updater.  This basically means that the exe is just 
 a high end replacment for a batch file
 (this allows us to asign an icon in windows).
 
-The change means that our launcher should now be mono complient
+The change means that our launcher should now be mono compliant
 and we should not break when Mojang makes changes to their launcher
 or login process.
 
