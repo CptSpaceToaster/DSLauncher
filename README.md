@@ -12,7 +12,7 @@ In its current state, there is a heap of old code and some
 more recent additions all mixed together.  We now only use the
 .net exe to redirect the Minecraft launcher and launch a Java 
 based auto updater.  This basically means that the exe is just 
-a high end replacment for a batch file
+a high end replacment for a batch file or script.
 (this allows us to asign an icon in windows).
 
 The change means that our launcher should now be mono compliant
